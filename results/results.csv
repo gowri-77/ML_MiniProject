@@ -1,2 +1,9 @@
 model,train_micro_f1,val_micro_f1,val_macro_f1,train_time_sec
 knn,0.6339,0.6304,0.5539,1.6
+knn_tuned,0.6339,0.6304,0.5539,2.8
+knn_tuned,0.6463,0.6461,0.549,2.0
+knn_tuned,0.6463,0.6461,0.549,2.4
+knn_tuned,0.6463,0.6461,0.549,1.4
+knn_tuned,0.6463,0.6461,0.549,1.7
+knn_tuned,0.6463,0.6461,0.549,1.9
+knn_tuned,0.6463,0.6461,0.549,1.7
